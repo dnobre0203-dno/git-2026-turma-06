@@ -10,3 +10,4 @@ fodase4
 fodamseTodos
 todos!
 todos mesmo!!!!!
+Alterando status do arquivo fodase no local branch fodase3
